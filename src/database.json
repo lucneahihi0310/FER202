@@ -1,0 +1,149 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "tu lanh samsung",
+      "price": 19000000,
+      "description": "hhhh",
+      "quantity": 91,
+      "catId": 1,
+      "createAt": "2024-04-20",
+      "status": true,
+      "image": "tulanh1.jpg"
+    },
+    {
+      "id": "P002",
+      "name": "tu lanh LG",
+      "price": 89000000,
+      "description": "hhhh",
+      "quantity": 90,
+      "catId": 2,
+      "createAt": "2024-04-23",
+      "status": true,
+      "image": "tulanhLG.jpg"
+    },
+    {
+      "id": "P003",
+      "name": "tu lanh pana",
+      "price": 20000000,
+      "description": "hhhh",
+      "catId": 3,
+      "createAt": "11-4-2024",
+      "status": true,
+      "quantity": 90,
+      "image": "tulanhpana.jpg"
+    },
+    {
+      "id": "P004",
+      "name": "dieu hoa daikin",
+      "price": 25000000,
+      "description": "hhhh",
+      "catId": 2,
+      "createAt": "11-4-2024",
+      "status": true,
+      "quantity": 90,
+      "image": "dieuhoadaikin.jpg"
+    },
+    {
+      "id": "P005",
+      "name": "dieu hoa sam sung",
+      "price": 36000000,
+      "description": "hhhh",
+      "catId": 1,
+      "createAt": "11-4-2024",
+      "status": true,
+      "quantity": 90,
+      "image": "dieuhoasamsung.jpg"
+    },
+    {
+      "id": "P006",
+      "name": "tivi samsung",
+      "price": 67000000,
+      "description": "hhhh",
+      "catId": 2,
+      "createAt": "11-4-2024",
+      "status": true,
+      "quantity": 90,
+      "image": "tivisamsung.jpg"
+    },
+    {
+      "id": "P007",
+      "name": "tivi sony",
+      "price": 24000000,
+      "description": "hhhh",
+      "catId": 3,
+      "createAt": "11-4-2024",
+      "status": false,
+      "quantity": 90,
+      "image": "tivisony.jpg"
+    },
+    {
+      "id": "P008",
+      "name": "tivi pana",
+      "price": 34000000,
+      "description": "hhhh",
+      "catId": 1,
+      "createAt": "11-4-2024",
+      "status": true,
+      "quantity": 90,
+      "image": "tivipana.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện Tử-Điện Lạnh"
+    },
+    {
+      "id": 2,
+      "name": "Máy Tính"
+    },
+    {
+      "id": 3,
+      "name": "Điện Thoại"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Dương Văn Lực",
+      "email": "lucduongty@gmail.com",
+      "password": "lucduong2002",
+      "gender": 1,
+      "dob": "2002/10/03",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "name": "Dương Văn Lực",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "gender": 1,
+      "dob": "2002/10/03",
+      "role": "admin"
+    }
+  ],
+  "carts": [
+    {
+      "id": "P001",
+      "name": "tu lanh samsung",
+      "price": 19000000,
+      "image": "tulanh1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "P003",
+      "name": "tu lanh pana",
+      "price": 20000000,
+      "image": "tulanhpana.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "P002",
+      "name": "tu lanh LG",
+      "price": 89000000,
+      "image": "tulanhLG.jpg",
+      "quantity": 1
+    }
+  ]
+}
