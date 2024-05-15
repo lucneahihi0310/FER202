@@ -9,7 +9,11 @@
       "catId": 1,
       "createAt": "2024-04-20",
       "status": true,
-      "image": "tulanh1.jpg"
+      "image": "tulanh1.jpg",
+      "image1": "tulanhLG.jpg",
+      "image2": "tulanhpana.jpg",
+      "image3": "dieuhoadaikin.jpg"
+
     },
     {
       "id": "P002",
@@ -144,6 +148,29 @@
       "price": 89000000,
       "image": "tulanhLG.jpg",
       "quantity": 1
+    }
+  ],
+  "orderdetails": [
+    {
+      "id": 1,
+      "orderDate": "2024-04-20",
+      "requireDate": "2024-04-20",
+      "customer": {
+        "cusId": 1,
+        "fName": "Duong",
+        "lName": "Luc",
+        "address": "nasjncaj",
+        "mobile": "121214",
+        "email": "asdasdad"
+      },
+      "product": {
+        "id": "P001",
+        "name": "tu lanh samsung",
+        "price": 19000000,
+        "quantity": 91,
+        "vat": "000.7",
+        "discount": "0.06"
+      }
     }
   ]
 }
